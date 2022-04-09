@@ -12,7 +12,6 @@ start GRIONnodrivershooting
 ```
 
 Credits:
-
 `Script Created By: ElGringo®#1088`
 
 Join https://discord.gg/JQkK5Zq8xH (GRION Leaks & Development) for more.
