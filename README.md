@@ -11,7 +11,6 @@ A little script for disabling the shooting while driving a car.
 start GRIONnodrivershooting
 ```
 
-
 Credits:
 `Script Created By: ElGringo®#1088`
 
