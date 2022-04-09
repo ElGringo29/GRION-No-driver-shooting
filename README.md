@@ -1,5 +1,4 @@
 # [FiveM] GRION-No-driver-shooting
-No driver shooting
 
 [DESCRIPTION]
 A little script for disabling the shooting while driving a car.
